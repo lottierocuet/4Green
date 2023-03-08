@@ -33,7 +33,7 @@ Dans le cas d'un site plus dynamique, le sur-mesure permet plus de souplesse dan
 
 Si vous avez une partie d'un site web qui repose sur un nombre de pages très limité et qui délivre un service métier encadré (tunnel de commande, demande de devis) l'utilisation d'une SPA (Single Page Application) peut être recommandée. Cela permet de limiter les aller retours avec le serveur et rendre l'expérience plus fluide et performante.
 
-### Exemple
+### Example
 
 Un site institutionnel avec uniquement une présentation de l'entreprise et un formulaire de contact devra privilégier un site statique étant donné la faible fréquence de mise à jour. 
 
